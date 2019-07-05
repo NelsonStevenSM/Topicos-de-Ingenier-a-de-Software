@@ -4,10 +4,9 @@
 
 ## Documentación ilustrativa
 
-Integrantes: 
+Autor: 
 - Luis Vasquez
-- Nelson Sanabio
-- Miguel Oviedo
+
 
 ___
 

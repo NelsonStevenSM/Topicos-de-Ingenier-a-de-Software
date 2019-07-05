@@ -1,0 +1,11 @@
+/home/nelson/Desktop/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/nelson/Desktop/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/nelson/Desktop/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/nelson/Desktop/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/nelson/Desktop/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/nelson/Desktop/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/nelson/Desktop/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/nelson/Desktop/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/nelson/Desktop/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/nelson/Desktop/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/nelson/Desktop/myApp/obj/Debug/netcoreapp2.2/myApp.pdb

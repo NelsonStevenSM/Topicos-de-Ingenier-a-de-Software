@@ -1,5 +1,7 @@
 
 # Aplicativo usando el IoC "Ninject"
+## Autor :
+- Nelson Sanabio
 
 Supongamos que está creando una aplicación web que enviará correos electrónicos a los visitantes que hayan ingresado un formulario. En el código orientado a objetos, es importante separar las responsabilidades. Así que probablemente terminará con una clase que maneja la entrada del formulario **FormHandler** y una clase que es responsable de enviar los correos electrónicos **MailSender**.
 
